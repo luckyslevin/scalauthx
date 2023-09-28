@@ -32,3 +32,9 @@ Temporary Items
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+.metals
+.vscode
+.bloop
+project/.bloop
+.bsp
+metals.sbt
